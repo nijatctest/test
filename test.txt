@@ -1,0 +1,6 @@
+<script>alert(1)</script>
+"><h1>aaaa</h1>
+${7*7}
+${{7*7}}
+<% 7*7 %>
+test aaa
